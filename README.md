@@ -32,7 +32,6 @@
 <br>
 
 ## ⚡ Stats ⚡
-## ⚡ Stats ⚡
 <div align="center">
 <a href="https://github.com/Beshoy-Atef-Adel">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Beshoy-Atef-Adel&show_icons=true&theme=radical" />
