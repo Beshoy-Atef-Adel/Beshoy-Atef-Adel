@@ -32,9 +32,14 @@
 <br>
 
 ## ⚡ Stats ⚡
+## ⚡ Stats ⚡
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beshoy-Atef-Adel&show_icons=true&theme=radical" alt="Beshoy's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beshoy-Atef-Adel&layout=compact&theme=radical" alt="Beshoy's Languages" />
+<a href="https://github.com/Beshoy-Atef-Adel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Beshoy-Atef-Adel&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/Beshoy-Atef-Adel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beshoy-Atef-Adel&langs_count=8&layout=compact&theme=radical" />
+</a>
 </div>
 <br>
 
