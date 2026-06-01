@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Beshoy+Atef+Adel;AI+Engineer+%7C+ML+Engineer+%7C+Data+Scientist;Computer+Vision+%7C+LLMs+%7C+SaaS+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=AI+Engineer+%7C+ML+Engineer+%7C+Data+Scientist+%7C+SaaS+Builder" />
+
+### Hi there! I'm **Beshoy Atef Adel** 👋
 
 <br/>
 
