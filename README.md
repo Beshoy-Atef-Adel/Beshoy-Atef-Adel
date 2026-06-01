@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi+%F0%9F%91%8B+I'm+Beshoy+Atef+Adel; I'M+Engineer+%7C+ML+%7C+Computer+Vision+%7C+LLMs" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Beshoy+Atef+Adel;AI+Engineer+%7C+ML+Engineer+%7C+Data+Scientist;Computer+Vision+%7C+LLMs+%7C+SaaS+Builder" />
 
 <br/>
 
@@ -18,14 +18,14 @@
 
 ```yaml
 Name:       Beshoy Atef Adel
-Role:       AI Engineer
+Role:       AI Engineer | ML Engineer | Data Scientist
 Location:   Giza, Egypt
 Education:  Postgrad Diploma in Data Science — Cairo University (2025–Present)
             Bachelor of Business Information Systems — Modern Academy (2021–2025)
 Languages:  Arabic (Native) | English (B2) | Spanish (B1)
 ```
 
-> AI Engineer with hands-on experience across **Machine Learning**, **Deep Learning**, **Computer Vision**, and **LLM-based applications**. Skilled in building end-to-end ML pipelines, RAG systems, and production-ready AI solutions.
+> AI Engineer & Data Scientist with hands-on experience across **Machine Learning**, **Deep Learning**, **Computer Vision**, and **LLM-based applications**. Skilled in building end-to-end ML pipelines, RAG systems, SaaS products, and production-ready AI solutions using **Streamlit**, **FastAPI**, **Docker**, and cloud services.
 
 ---
 
@@ -57,6 +57,7 @@ Languages:  Arabic (Native) | English (B2) | Spanish (B1)
 **LLMs & Automation**
 
 ![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square)
+![SaaS](https://img.shields.io/badge/SaaS-FF6154?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10B981?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-F59E0B?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
