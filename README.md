@@ -111,22 +111,74 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://lingualeap-app.vercel.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Beshoy-Atef-Adel&repo=lingualeap&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="48%" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Beshoy-Atef-Adel/Face-Mask-Detection-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Beshoy-Atef-Adel&repo=Face-Mask-Detection-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="48%" />
-</a>
+### <a href="https://lingualeap-app.vercel.app">LinguaLeap</a>
+<p><em>AI-Powered Language Learning Platform</em></p>
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+
+Full-stack SaaS platform with **5 languages**, **305 exercises**, AI tutor, and pronunciation scoring.
+
+<a href="https://lingualeap-app.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" height="28"/></a>
+
+</td>
+<td width="50%">
+
+### <a href="https://github.com/Beshoy-Atef-Adel/Face-Mask-Detection-System">Face Mask Detection</a>
+<p><em>End-to-End MLOps Computer Vision Pipeline</em></p>
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**89% mAP**, **96% Precision** across 3 classes. Full MLOps with Streamlit dashboard & Docker deployment.
+
+<a href="https://github.com/Beshoy-Atef-Adel/Face-Mask-Detection-System"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### <a href="https://bmw-price-predictor.streamlit.app">BMW Price Predictor</a>
+<p><em>ML Web App for Used Car Pricing</em></p>
+
+![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**R² = 0.96** accuracy, trained on **10,000+** real UK BMW listings with interactive dashboard.
+
+<a href="https://bmw-price-predictor.streamlit.app"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://github.com/Beshoy-Atef-Adel/bmw-price-predictor"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
+
+</td>
+<td width="50%">
+
+### More Projects Coming Soon...
+<p><em>Always building & shipping</em></p>
+
+<br/>
+
+Check out all my repositories:
+
+<a href="https://github.com/Beshoy-Atef-Adel?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repos-6C63FF?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
 
 <br/><br/>
 
-<a href="https://bmw-price-predictor.streamlit.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Beshoy-Atef-Adel&repo=bmw-price-predictor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="48%" />
-</a>
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
